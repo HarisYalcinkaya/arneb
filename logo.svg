@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866666 33.866668"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient821">
+      <stop
+         style="stop-color:#00fffd;stop-opacity:1"
+         offset="0"
+         id="stop817" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop819" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient821"
+       id="linearGradient823"
+       x1="16.933334"
+       y1="284.29999"
+       x2="16.933334"
+       y2="297"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.125,0,0,1.125,-2.1166703,-38.183339)" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(0,-263.13332)">
+    <path
+       style="fill:url(#linearGradient823);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 7.408331,286.41665 v 9.525 h 19.050004 v -9.525 l -9.525002,-4.76249 z"
+       id="path815" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 16.933333,267.36665 -9.5250051,19.05 9.5250051,-3.17498 9.525004,3.17498 z"
+       id="path825" />
+  </g>
+</svg>

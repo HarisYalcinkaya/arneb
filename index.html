@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+
+		<title>Arneb &ndash; Infinite Space Shooter</title>
+
+		<style>
+			@font-face {
+				font-family:	'Press Start 2P';
+				src:			url('./PressStart2P-Regular.ttf');
+			}
+
+			body {
+				background:		#000;
+				color:			#fff;
+				position:		absolute;
+
+				width:			100%;
+				height:			100%;
+				padding:		0;
+				margin:			0;
+
+				font-family:	sans-serif;
+				text-align:		center;
+			}
+
+			header {
+				display:		flex;
+
+				min-height:		100%;
+				padding:		0;
+
+				font-family:	'Press Start 2P', sans-serif;
+				flex-direction:	column;
+				justify-content:space-evenly;
+			}
+
+			h1 {
+				margin:			0px;
+
+				font-size:		128px;
+			}
+
+			h2 {
+				margin:			0px;
+
+				font-size:		32px;
+			}
+
+			header > section {
+				display:		block;
+			}
+
+			header > section#badge {
+				height:			125%;
+			}
+
+			header > section#badge > a.offset {
+				position:		relative;
+
+				top:			-22px;
+			}
+
+			footer {
+				background:		#fff;
+				color:			#000;
+
+				padding:		32px;
+			}
+
+			footer a {
+				color:			#000;
+				display:		inline-block;
+
+				margin:			0 8px;
+
+				font-size:		14px;
+				text-decoration:none;
+			}
+
+			.gray {
+				color:			#888;
+			}
+
+			.small {
+				font-size:		12px;
+			}
+		</style>
+	</head>
+	<body>
+		<header>
+			<section>
+				<img src="logo.svg" alt="Arneb Logo" width="512" height="512" />
+				<h1>Arneb</h1>
+				<h2>Infinite Space Shooter</h2>
+			</section>
+			<section>
+				<a href='https://play.google.com/store/apps/details?id=io.haris.arneb.android&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img height="125" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+			</section>
+		</header>
+		<footer>
+			<a href="./privacy.html">Privacy Policy</a> &middot; <a href="./legal-notice.html">Legal Notice</a>
+			<br/><br/>
+			<span class="gray small">Google Play and the Google Play logo are trademarks of Google LLC.</span>
+		</footer>
+	</body>
+</html>
